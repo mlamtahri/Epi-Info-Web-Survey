@@ -50,3 +50,5 @@ Epi.Web/bin/Epi.Web.MVC.pdb
 Epi.Web/bin/Epi.Web.WCF.SurveyService.dll
 Epi.Web/bin/Epi.Web.WCF.SurveyService.pdb
 Epi.Web/Web.config
+*.config
+*.pdb
